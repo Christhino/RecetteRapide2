@@ -124,6 +124,21 @@ a{
 h1{
     text-align: center;
 }
+form{
+    padding-top: 40px;
+}
+section h1{
+    padding-top: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(201, 57, 57);
+    font-size: 30px;
+}
+section h2{
+    font-size: 30px;
+    padding-top: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(201, 57, 57);
+}
 .form-style {
     margin:10px auto;
     width: 400px;
@@ -195,7 +210,7 @@ textarea{
     color: rgb(224, 207, 207);
 }
 section{
-    height: 1000px;
+    height: 600px;
     width: 100%;
     text-align: center;
     background: #d3c4c4;
